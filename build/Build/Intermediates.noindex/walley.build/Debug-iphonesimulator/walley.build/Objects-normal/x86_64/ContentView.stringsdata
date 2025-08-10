@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kinsha/gemini/apple-walley/walley/walley/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cards",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 9
+        }
+      },
+      {
+        "comment": "",
+        "key": "Profiles",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 14
+        }
+      }
+    ]
+  },
+  "version": 1
+}

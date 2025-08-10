@@ -6,6 +6,17 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		460555172E3FF17500308E07 /* ProfilesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460555152E3FF17500308E07 /* ProfilesView.swift */; };
+		460555182E3FF17500308E07 /* AddCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460555122E3FF17500308E07 /* AddCardView.swift */; };
+		460555192E3FF17500308E07 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4605550D2E3FF17500308E07 /* Card.swift */; };
+		4605551A2E3FF17500308E07 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4605550E2E3FF17500308E07 /* Profile.swift */; };
+		4605551B2E3FF17500308E07 /* NFCManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460555102E3FF17500308E07 /* NFCManager.swift */; };
+		4605551C2E3FF17500308E07 /* CardsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460555142E3FF17500308E07 /* CardsView.swift */; };
+		4605551D2E3FF17500308E07 /* AddProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460555132E3FF17500308E07 /* AddProfileView.swift */; };
+		460555212E3FF1C800308E07 /* CoreNFC.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4605551F2E3FF19600308E07 /* CoreNFC.framework */; platformFilter = ios; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		460553F62E3FABA600308E07 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +38,14 @@
 		460553E52E3FABA300308E07 /* walley.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = walley.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		460553F52E3FABA600308E07 /* walleyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = walleyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		460553FF2E3FABA600308E07 /* walleyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = walleyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		4605550D2E3FF17500308E07 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		4605550E2E3FF17500308E07 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		460555102E3FF17500308E07 /* NFCManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NFCManager.swift; sourceTree = "<group>"; };
+		460555122E3FF17500308E07 /* AddCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCardView.swift; sourceTree = "<group>"; };
+		460555132E3FF17500308E07 /* AddProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddProfileView.swift; sourceTree = "<group>"; };
+		460555142E3FF17500308E07 /* CardsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardsView.swift; sourceTree = "<group>"; };
+		460555152E3FF17500308E07 /* ProfilesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilesView.swift; sourceTree = "<group>"; };
+		4605551F2E3FF19600308E07 /* CoreNFC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreNFC.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.4.sdk/System/Library/Frameworks/CoreNFC.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -52,6 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				460555212E3FF1C800308E07 /* CoreNFC.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -79,6 +99,10 @@
 				460553F82E3FABA600308E07 /* walleyTests */,
 				460554022E3FABA600308E07 /* walleyUITests */,
 				460553E62E3FABA300308E07 /* Products */,
+				4605550F2E3FF17500308E07 /* Models */,
+				460555112E3FF17500308E07 /* Services */,
+				460555162E3FF17500308E07 /* Views */,
+				4605551E2E3FF19600308E07 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -90,6 +114,42 @@
 				460553FF2E3FABA600308E07 /* walleyUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		4605550F2E3FF17500308E07 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				4605550D2E3FF17500308E07 /* Card.swift */,
+				4605550E2E3FF17500308E07 /* Profile.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		460555112E3FF17500308E07 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				460555102E3FF17500308E07 /* NFCManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		460555162E3FF17500308E07 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				460555122E3FF17500308E07 /* AddCardView.swift */,
+				460555132E3FF17500308E07 /* AddProfileView.swift */,
+				460555142E3FF17500308E07 /* CardsView.swift */,
+				460555152E3FF17500308E07 /* ProfilesView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		4605551E2E3FF19600308E07 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				4605551F2E3FF19600308E07 /* CoreNFC.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,6 +296,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				460555172E3FF17500308E07 /* ProfilesView.swift in Sources */,
+				460555182E3FF17500308E07 /* AddCardView.swift in Sources */,
+				460555192E3FF17500308E07 /* Card.swift in Sources */,
+				4605551A2E3FF17500308E07 /* Profile.swift in Sources */,
+				4605551B2E3FF17500308E07 /* NFCManager.swift in Sources */,
+				4605551C2E3FF17500308E07 /* CardsView.swift in Sources */,
+				4605551D2E3FF17500308E07 /* AddProfileView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -391,6 +458,7 @@
 				CODE_SIGN_ENTITLEMENTS = walley/walley.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YP5DC3B3J6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -412,10 +480,10 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
 			name = Debug;
@@ -428,6 +496,7 @@
 				CODE_SIGN_ENTITLEMENTS = walley/walley.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YP5DC3B3J6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -449,10 +518,10 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				REGISTER_APP_GROUPS = YES;
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
 			name = Release;
@@ -470,10 +539,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.xenio.walley.walleyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/walley.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/walley";
 				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
@@ -492,10 +561,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.xenio.walley.walleyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/walley.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/walley";
 				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
@@ -513,10 +582,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.xenio.walley.walleyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = walley;
 				XROS_DEPLOYMENT_TARGET = 2.4;
 			};
@@ -534,10 +603,10 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.xenio.walley.walleyUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx xros xrsimulator";
+				SUPPORTED_PLATFORMS = "iphonesimulator";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2,7";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = walley;
 				XROS_DEPLOYMENT_TARGET = 2.4;
 			};

@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kinsha/gemini/apple-walley/walley/Views/CardsView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "My Cards",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add Card",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 25
+        }
+      }
+    ]
+  },
+  "version": 1
+}

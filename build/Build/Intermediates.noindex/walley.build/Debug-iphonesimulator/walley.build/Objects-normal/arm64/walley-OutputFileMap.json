@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walley-master.dia",
+    "emit-module-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walley-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walley-master-emit-module.dia",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walley-master.swiftdeps"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Models/Card.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Card~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Models/Profile.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/Profile~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Services/NFCManager.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/NFCManager~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Views/AddCardView.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddCardView~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Views/AddProfileView.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/AddProfileView~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Views/CardsView.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/CardsView~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/Views/ProfilesView.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ProfilesView~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/walley/ContentView.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/kinsha/gemini/apple-walley/walley/walley/walleyApp.swift" : {
+    "const-values" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.swiftconstvalues",
+    "dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.d",
+    "diagnostics" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.dia",
+    "index-unit-output-path" : "/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.o",
+    "llvm-bc" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.bc",
+    "object" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.o",
+    "swift-dependencies" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp.swiftdeps",
+    "swiftmodule" : "/Users/kinsha/gemini/apple-walley/walley/build/Build/Intermediates.noindex/walley.build/Debug-iphonesimulator/walley.build/Objects-normal/arm64/walleyApp~partial.swiftmodule"
+  }
+}

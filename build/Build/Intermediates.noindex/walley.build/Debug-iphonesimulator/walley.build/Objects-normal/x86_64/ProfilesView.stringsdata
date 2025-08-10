@@ -1,0 +1,24 @@
+{
+  "source": "/Users/kinsha/gemini/apple-walley/walley/Views/ProfilesView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profiles",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 22
+        }
+      },
+      {
+        "comment": "",
+        "key": "Add",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 25
+        }
+      }
+    ]
+  },
+  "version": 1
+}
